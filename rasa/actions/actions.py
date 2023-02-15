@@ -1,3 +1,5 @@
+import pandas as pd
+
 # This files contains your custom actions which can be used to run
 # custom Python code.
 #
@@ -25,3 +27,7 @@
 #         dispatcher.utter_message(text="Hello World!")
 #
 #         return []
+
+dataFrame = pd.read_excel('data/info.xlsx',sheet_name="info")
+
+print(dataFrame)
