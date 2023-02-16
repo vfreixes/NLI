@@ -1,6 +1,20 @@
 version: "3.1"
 
 nlu:
+
+- intent: get_office
+  examples: |
+    - What's [Jorge lobo](name) office?
+    - What's professor [Anders Jonsson](name) office?
+    - I want to know professor's [pablo aragon serrano](name) office
+    - Tell me the office of [oriol martinez pujol](name)
+
+- intent: get_group
+  examples: |
+    - What's [Berkay demirel](name) group?
+    - What's [Gerald hahn](name) department?
+
+
 - intent: greet
   examples: |
     - hey
@@ -48,40 +62,6 @@ nlu:
     - don't like that
     - no way
     - not really
-
-- intent: mood_great
-  examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
-
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
 
 - intent: bot_challenge
   examples: |

@@ -2,6 +2,13 @@ version: "3.1"
 
 stories:
 
+- story: greet and office
+  steps:
+    - intent: greet
+    - action: utter_greet
+    - intent: get_office
+    - action: utter_office
+
 - story: happy path
   steps:
   - intent: greet

@@ -5,20 +5,28 @@ intents:
   - goodbye
   - affirm
   - deny
-  - mood_great
-  - mood_unhappy
   - bot_challenge
+  - get_group
+  - get_office
+
+entities:
+  - name
+  - surname
+
 
 responses:
-  utter_greet:
-  - text: "Hey! How are you?"
+  utter_group:
+  - text: "Professor"
 
-  utter_cheer_up:
-  - text: "Here is something to cheer you up:"
-    image: "https://i.imgur.com/nGF1K8f.jpg"
+  utter_office:
+  - text: ""
+  
+  utter_greet:
+  - text: "Hi, how can I help you?"
 
   utter_did_that_help:
   - text: "Did that help you?"
+  - text: "Was that information helpful?"
 
   utter_happy:
   - text: "Great, carry on!"
