@@ -69,3 +69,39 @@ class ActionReadGroup(Action):
             
         dispatcher.utter_message(text=group)
         return []
+
+class ActionReadGroup(Action):
+    def name(seld) -> Text:
+        return "read_office"
+    
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]
+        ) -> List[Dict[Text, Any]]:
+
+        name = tracker.get_slot("name")
+        split_name = name.split(" ")
+         
+        #Excel columns: NOMBRE, GRUPO, DESPACHO
+        dataFrame = pd.read_excel('data/info.xlsx',sheet_name="info")
+        rows, cols = dataFrame.shape
+
+        office = ""
+
+        name = name.upper()
+        split_name = name.split(" ")
+        split_name.sort()
+
+        for row in range(0,rows):
+            if not pd.isnull(dataFrame.loc[row,"NOMBRE"]):
+                prof = dataFrame.loc[row,"NOMBRE"]
+                prof_split = prof.split(",")
+                prof = "".join(prof_split)
+                prof_split = re.split(" +",prof)
+                prof_split.sort()
+
+                if split_name == prof_split:
+                    office = dataFrame.loc[row,"DESPACHO"]
+            
+        dispatcher.utter_message(text=office)
+        return []
