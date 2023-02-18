@@ -11,12 +11,26 @@ intents:
 
 entities:
   - name
-  - surname
 
+actions:
+  - read_office
+  - read_group
+
+slots:
+  name:
+    type: text
+    influence_conversation: false
+  group:
+    type: text
+    influence_conversation: false
+  office:
+    type: text
+    influence_conversation: false
 
 responses:
   utter_group:
-  - text: "Professor"
+  - text: "Professor's {name} group is {group}" 
+  - text: "{name} is in the {group} group"
 
   utter_office:
   - text: ""

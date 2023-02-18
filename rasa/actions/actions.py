@@ -1,4 +1,10 @@
+from typing import Any, Text, Dict, List
+from rasa_sdk import Action, Tracker
+from rasa_sdk.executor import CollectingDispatcher
 import pandas as pd
+import numpy as np
+import re
+
 
 # This files contains your custom actions which can be used to run
 # custom Python code.
@@ -28,6 +34,38 @@ import pandas as pd
 #
 #         return []
 
-dataFrame = pd.read_excel('data/info.xlsx',sheet_name="info")
+class ActionReadGroup(Action):
+    def name(seld) -> Text:
+        return "read_group"
+    
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]
+        ) -> List[Dict[Text, Any]]:
 
-print(dataFrame)
+        name = tracker.get_slot("name")
+        split_name = name.split(" ")
+         
+        #Excel columns: NOMBRE, GRUPO, DESPACHO
+        dataFrame = pd.read_excel('data/info.xlsx',sheet_name="info")
+        rows, cols = dataFrame.shape
+
+        group = ""
+
+        name = name.upper()
+        split_name = name.split(" ")
+        split_name.sort()
+
+        for row in range(0,rows):
+            if not pd.isnull(dataFrame.loc[row,"NOMBRE"]):
+                prof = dataFrame.loc[row,"NOMBRE"]
+                prof_split = prof.split(",")
+                prof = "".join(prof_split)
+                prof_split = re.split(" +",prof)
+                prof_split.sort()
+
+                if split_name == prof_split:
+                    group = dataFrame.loc[row,"GRUPO"]
+            
+        dispatcher.utter_message(text=group)
+        return []
