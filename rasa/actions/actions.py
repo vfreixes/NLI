@@ -1,8 +1,8 @@
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
+from rasa_sdk.events import SlotSet
 import pandas as pd
-import numpy as np
 import re
 
 
@@ -35,7 +35,7 @@ import re
 #         return []
 
 class ActionReadGroup(Action):
-    def name(seld) -> Text:
+    def name(self) -> Text:
         return "read_group"
     
     def run(self, dispatcher: CollectingDispatcher,
@@ -67,11 +67,11 @@ class ActionReadGroup(Action):
                 if split_name == prof_split:
                     group = dataFrame.loc[row,"GRUPO"]
             
-        dispatcher.utter_message(text=group)
-        return []
+        #dispatcher.utter_message(response = "utter_group",text=f"{group}")
+        return [SlotSet("group", group)]
 
-class ActionReadGroup(Action):
-    def name(seld) -> Text:
+class ActionReadOffice(Action):
+    def name(self) -> Text:
         return "read_office"
     
     def run(self, dispatcher: CollectingDispatcher,
@@ -103,5 +103,5 @@ class ActionReadGroup(Action):
                 if split_name == prof_split:
                     office = dataFrame.loc[row,"DESPACHO"]
             
-        dispatcher.utter_message(text=office)
-        return []
+        #dispatcher.utter_message(response = "utter_office",text=f"{office}")
+        return [SlotSet("office", office)]

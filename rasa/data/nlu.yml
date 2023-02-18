@@ -13,6 +13,7 @@ nlu:
   examples: |
     - What's [Berkay demirel](name) group?
     - What's [Gerald hahn](name) department?
+    - In which group works [MARIA MONTSERRAT BRILLAS ROSELL](name)?
 
 
 - intent: greet

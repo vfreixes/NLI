@@ -11,6 +11,8 @@ intents:
 
 entities:
   - name
+  - group
+  - office
 
 actions:
   - read_office
@@ -20,12 +22,21 @@ slots:
   name:
     type: text
     influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: name
   group:
     type: text
     influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: group
   office:
     type: text
     influence_conversation: false
+    mappings:
+    - type: from_entity
+      entity: office
 
 responses:
   utter_group:
@@ -33,7 +44,8 @@ responses:
   - text: "{name} is in the {group} group"
 
   utter_office:
-  - text: ""
+  - text: "Professor's {name} office is {office}" 
+  - text: "{name} can be found at {group} office"
   
   utter_greet:
   - text: "Hi, how can I help you?"
