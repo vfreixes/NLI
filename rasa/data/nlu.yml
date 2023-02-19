@@ -8,13 +8,16 @@ nlu:
     - What's professor [Anders Jonsson](name) office?
     - I want to know professor's [pablo aragon serrano](name) office
     - Tell me the office of [oriol martinez pujol](name)
+    - Where can I find [leo wanner](name)?
+    - Tell me [gergely neu](name) office
 
 - intent: get_group
   examples: |
     - What's [Berkay demirel](name) group?
     - What's [Gerald hahn](name) department?
     - In which group works [MARIA MONTSERRAT BRILLAS ROSELL](name)?
-
+    - Where does [gergely neu](name) work?
+    - Tell me [leo wanner](name) group
 
 - intent: greet
   examples: |
