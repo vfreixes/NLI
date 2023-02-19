@@ -61,7 +61,7 @@ responses:
   - text: "Bye"
 
   utter_iamabot:
-  - text: "I am a bot, powered by Rasa."
+  - text: "Beep boop, I'm a bot."
 
 session_config:
   session_expiration_time: 60

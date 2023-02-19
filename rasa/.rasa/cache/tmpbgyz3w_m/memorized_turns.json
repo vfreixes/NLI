@@ -1,0 +1,19 @@
+{
+  "lookup": {
+    "eJyLrq6NBQAEOAGx": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taS2NhYA6dwbhQ==": "utter_greet",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpbhMiAUAQvc0lw==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMgVqSVA4/NLC2prYwHsDlAg": "read_group",
+    "eJydzkEKgCAQheGrzAE6gVeJEKlHCKUyjm3Euzeg64R28+DnY9baFqqJ8Vi3i4/BUO2HDe6GoTEunwVB25LB2vigUwydDEibGEUEbHv6T5h9AVE+ljRzGO4Y5ReyvQ6famU=": "utter_group",
+    "eJydz1EKgCAMxvGr7ACdwKtEiNRHCKUyZy/i3Rtoz0JvG/z5sa21LVQT47FuFx+DodoHG9wNQ2O5fBYEbUsGa+ODrmLoZEDaxCgiYNvTf8LsCojysaSZw3DHKP8j3zszZXsB0y2FQg==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPj8tLTM5tbY2FgB4ZB15": "read_office",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPj8tLTM5tZaAQUWpiSkwpXiNiQUAXiU4PA==": "utter_office",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPj8tLTM5tZaAQUWpiSkwpRQYU1pSklpElDmxAAyEU5c=": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPr0ov7SgtjYWAFvNHTo=": "read_group",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPr0ov7SgloA5RamJKVCV+AyJBQDFfzd/": "utter_group",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohPbUkPr0ov7SgloA5RamJKVCV5BtSWlKSWkSEKbEAnmZSXA==": "action_listen",
+    "eJyLrq7VUaguKEoti09MLsnMz7NSqIYw4vMSc1OtFKCcnMziktQ8oNrS4tQioJrMPCC3xEohvSg1taSWgBmlJSWpRfEQpeSZQMgVqSXx+WlpmcmptbWxADuaUF8=": "read_office",
+    "eJydjkEKgCAURK/iATqBV4kQsTGE+sb320a8e4K1TWg3Dx6PmUudVDkZl7FOQiStSh+G7AGtHthDElBzcwI3J1BD0WpjQOqgkUXApqv/CqMXEBO9Dw6jEMOur/qZWW4/92si": "utter_office",
+    "eJylj1EKgCAQRK+yB+gEXiVCxMYQymJd+xHvnmB9G/U3A4/HzJjLQPlgnNpY8XtQlFvQwWxQdJfVR0GobIrgyvhQqyhaGJDScSQRsG7oN0NvBUTvznmLnohh5gf9oWmP3nimCz/Yhn0=": "action_listen"
+  }
+}

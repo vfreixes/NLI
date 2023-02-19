@@ -18,6 +18,18 @@ stories:
     - action: read_group
     - action: utter_group
 
+- story: get group
+  steps:
+    - intent: get_group
+    - action: read_group
+    - action: utter_group 
+
+- story: get office
+  steps:
+    - intent: get_office
+    - action: read_office
+    - action: utter_office 
+
 - story: happy path
   steps:
     - intent: greet
