@@ -1,0 +1,1382 @@
+{
+    "1": {
+        "first_name": "JORGE",
+        "second_name": "LOBO",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55110
+    },
+    "2": {
+        "first_name": "MARCO JEROME",
+        "second_name": "GASPARRINI",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55130
+    },
+    "3": {
+        "first_name": "VICENTE",
+        "second_name": "GOMEZ CERDA",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55130
+    },
+    "4": {
+        "first_name": "ANDERS",
+        "second_name": "JONSSON",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55130
+    },
+    "5": {
+        "first_name": "GERGELY",
+        "second_name": "NEU",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55130
+    },
+    "6": {
+        "first_name": "MARTI",
+        "second_name": "SANCHEZ FIBLA",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55130
+    },
+    "7": {
+        "first_name": "VICTOR",
+        "second_name": "DALMAU LLORET",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55200
+    },
+    "8": {
+        "first_name": "VLADIMIR",
+        "second_name": "ESTIVILL CASTRO",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55201
+    },
+    "9": {
+        "first_name": "PABLO",
+        "second_name": "ARAGON ASENJO",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55210
+    },
+    "10": {
+        "first_name": "JOAN",
+        "second_name": "BAS SERRANO",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55210
+    },
+    "11": {
+        "first_name": "SILVIA",
+        "second_name": "BUTTI",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55215
+    },
+    "12": {
+        "first_name": "IULIIA",
+        "second_name": "OLKHOVSKAIA",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55217
+    },
+    "13": {
+        "first_name": "NICOLAS GASTON",
+        "second_name": "ROZADO",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55217
+    },
+    "14": {
+        "first_name": "LORENZO",
+        "second_name": "STECCANELLA",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55217
+    },
+    "15": {
+        "first_name": "DAMIEN",
+        "second_name": "ALLONSIUS",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55219
+    },
+    "16": {
+        "first_name": "BERKAY",
+        "second_name": "DEMIREL",
+        "group": "AI&ML: Artificial Intelligence and Machine Learning group",
+        "office": 55219
+    },
+    "17": {
+        "first_name": "ANA",
+        "second_name": "GONZALEZ SUAREZ",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51008
+    },
+    "18": {
+        "first_name": "JAVIER",
+        "second_name": "AGUIRRE OLCOZ",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51014
+    },
+    "19": {
+        "first_name": "QUIM",
+        "second_name": "CASTELLVI",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51014
+    },
+    "20": {
+        "first_name": "ALBERT",
+        "second_name": "COMERMA MONTELLS",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51014
+    },
+    "21": {
+        "first_name": "TOM\u00c1S",
+        "second_name": "GARCIA SANCHEZ",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51014
+    },
+    "22": {
+        "first_name": "ARACELYS",
+        "second_name": "GARCIA MORENO",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51015
+    },
+    "23": {
+        "first_name": "LAURA",
+        "second_name": "BECERRA FAJARDO",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51017
+    },
+    "24": {
+        "first_name": "AHMED FAYEZ SAAD MOHAMED ELADLY",
+        "second_name": "ELADLY",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51017
+    },
+    "25": {
+        "first_name": "BORJA",
+        "second_name": "MERCADAL CAVALLER",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51017
+    },
+    "26": {
+        "first_name": "JESUS",
+        "second_name": "MINGUILLON CAMPOS",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51017
+    },
+    "27": {
+        "first_name": "MARC",
+        "second_name": "TUDELA PI",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51017
+    },
+    "28": {
+        "first_name": "GUILLERMO",
+        "second_name": "JIMENEZ PEREZ",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 55119
+    },
+    "29": {
+        "first_name": "ROCIO",
+        "second_name": "LOPEZ VELAZCO",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 55119
+    },
+    "30": {
+        "first_name": "ENRIC",
+        "second_name": "PERERA I BEL",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 55119
+    },
+    "31": {
+        "first_name": "ANTONIO",
+        "second_name": "IVORRA CANO",
+        "group": "BERG Biomedical Electronics Research Group",
+        "office": 51017
+    },
+    "32": {
+        "first_name": "XERXES DINYAR",
+        "second_name": "ARSIWALLA",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 51100
+    },
+    "33": {
+        "first_name": "RICCARDO",
+        "second_name": "ZUCCA",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 51100
+    },
+    "34": {
+        "first_name": "CIERA",
+        "second_name": "CROWELL",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 51107
+    },
+    "35": {
+        "first_name": "LAURA",
+        "second_name": "MALINVERNI",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 51107
+    },
+    "36": {
+        "first_name": "JOAN",
+        "second_name": "MORA GUIARD",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 51107
+    },
+    "37": {
+        "first_name": "MARIE-MONIQUE",
+        "second_name": "SCHAPER",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 51107
+    },
+    "38": {
+        "first_name": "DECKY",
+        "second_name": "LATIF",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55108
+    },
+    "39": {
+        "first_name": "ORIOL",
+        "second_name": "MARTINEZ PUJOL",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55108
+    },
+    "40": {
+        "first_name": "XAVIER",
+        "second_name": "BINEFA VALLS",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55122
+    },
+    "41": {
+        "first_name": "ADRIANA",
+        "second_name": "FERNANDEZ LOPEZ",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55124
+    },
+    "42": {
+        "first_name": "GERALD",
+        "second_name": "HAHN",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55124
+    },
+    "43": {
+        "first_name": "MARIA DE ARACELI",
+        "second_name": "MORALES MU\u00d1OZ",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55124
+    },
+    "44": {
+        "first_name": "FEDERICO MATEO",
+        "second_name": "SUKNO",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55124
+    },
+    "45": {
+        "first_name": "NARCIS",
+        "second_name": "PARES BURGUES",
+        "group": "CMTECH: Cognitive Media Technologies Group",
+        "office": 55220
+    },
+    "46": {
+        "first_name": "BATUHAN",
+        "second_name": "SAYIS",
+        "group": "CMTECH: Cognitive Media Technologies Group /MTG: Music Technology Group",
+        "office": 55312
+    },
+    "47": {
+        "first_name": "ERNEST",
+        "second_name": "MONTBRI\u00d3 FAIREN",
+        "group": "Computational Neuroscience",
+        "office": 55422
+    },
+    "48": {
+        "first_name": "MARCELO JOS\u00c9",
+        "second_name": "BERTALMIO BARATE",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55203
+    },
+    "49": {
+        "first_name": "TREVOR DALTON",
+        "second_name": "CANHAM",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55205
+    },
+    "50": {
+        "first_name": "PRAVEEN",
+        "second_name": "CYRIAC",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55205
+    },
+    "51": {
+        "first_name": "RAQUEL",
+        "second_name": "GIL RODRIGUEZ",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55205
+    },
+    "52": {
+        "first_name": "ALEXANDER",
+        "second_name": "GOMEZ VILLA",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55205
+    },
+    "53": {
+        "first_name": "ITZIAR",
+        "second_name": "ZABALETA RAZQUIN",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55205
+    },
+    "54": {
+        "first_name": "ADRIAN",
+        "second_name": "MARTIN FERNANDEZ",
+        "group": "IP4EC\nImage processing\nfor enhanced cinematography",
+        "office": 55221
+    },
+    "55": {
+        "first_name": "ADRI\u00c0",
+        "second_name": "ARBUES SANG\u00dcESA",
+        "group": "IPG: Image Processing Group",
+        "office": 55116
+    },
+    "56": {
+        "first_name": "ADRIAN FERNANDO",
+        "second_name": "PONCE ALVAREZ",
+        "group": "IPG: Image Processing Group",
+        "office": 55116
+    },
+    "57": {
+        "first_name": "PATRICIA",
+        "second_name": "VITORIA CARRERA",
+        "group": "IPG: Image Processing Group",
+        "office": 55116
+    },
+    "58": {
+        "first_name": "COLOMA MARIA",
+        "second_name": "BALLESTER NICOLAU",
+        "group": "IPG: Image Processing Group",
+        "office": 55118
+    },
+    "59": {
+        "first_name": "GLORIA",
+        "second_name": "HARO ORTEGA",
+        "group": "IPG: Image Processing Group",
+        "office": 55118
+    },
+    "60": {
+        "first_name": "LARA",
+        "second_name": "RAAD CISA",
+        "group": "IPG: Image Processing Group",
+        "office": 55120
+    },
+    "61": {
+        "first_name": "JUAN FRANCISCO",
+        "second_name": "GARAMENDI BRAGADO",
+        "group": "IPG: Image Processing Group",
+        "office": 55424
+    },
+    "62": {
+        "first_name": "JUAN FELIPE",
+        "second_name": "MONTESINOS GARCIA",
+        "group": "IPG: Image Processing Group /MTG: Music Technology Group",
+        "office": 55120
+    },
+    "63": {
+        "first_name": "VENKATESH",
+        "second_name": "SHENOY KADANDALE",
+        "group": "IPG: Image Processing Group/ MTG: Music Technology Group",
+        "office": 55120
+    },
+    "64": {
+        "first_name": "OLGA",
+        "second_name": "SLIZOVSKAIA",
+        "group": "IPG: Image Processing Group/ MTG: Music Technology Group",
+        "office": 55120
+    },
+    "65": {
+        "first_name": "JOSEP",
+        "second_name": "FONT SEGURA",
+        "group": "ITC: Information Theory and Coding Group",
+        "office": 55204
+    },
+    "66": {
+        "first_name": "ALFONSO",
+        "second_name": "MARTINEZ VICENTE",
+        "group": "ITC: Information Theory and Coding Group",
+        "office": 55204
+    },
+    "67": {
+        "first_name": "IVANO",
+        "second_name": "COLOMBARO",
+        "group": "ITC: Information Theory and Coding Group",
+        "office": 55206
+    },
+    "68": {
+        "first_name": "AREZOU",
+        "second_name": "REZAZADEH",
+        "group": "ITC: Information Theory and Coding Group",
+        "office": 55206
+    },
+    "69": {
+        "first_name": "SERGIO",
+        "second_name": "BARRACHINA MU\u00d1OZ",
+        "group": "ITC: Information Theory and Coding Group",
+        "office": 55208
+    },
+    "70": {
+        "first_name": "ALBERT",
+        "second_name": "GUILLEN FABREGAS",
+        "group": "ITC: Information Theory and Coding Group",
+        "office": 55222
+    },
+    "71": {
+        "first_name": "SEBASTI\u00c1N ROBERTO",
+        "second_name": "MARICHAL BARAIBAR",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55102
+    },
+    "72": {
+        "first_name": "JAVIER",
+        "second_name": "AGENJO ASENSIO",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "73": {
+        "first_name": "IRUM",
+        "second_name": "BASEER",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "74": {
+        "first_name": "MARIA",
+        "second_name": "BOSSER CARENYS",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "75": {
+        "first_name": "BEATRIZ",
+        "second_name": "CABRERO DANIEL",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "76": {
+        "first_name": "JOAQUIM",
+        "second_name": "COLAS ALVAREZ",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "77": {
+        "first_name": "RICARDO JORGE",
+        "second_name": "MARQUES",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "78": {
+        "first_name": "JUDIT",
+        "second_name": "MART\u00cdNEZ MORENO",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "79": {
+        "first_name": "HERMANN",
+        "second_name": "PLASS PORTULAS",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55112
+    },
+    "80": {
+        "first_name": "JOSE ANGEL",
+        "second_name": "BLAT GIMENO",
+        "group": "ITG: Interactive Technologies Group",
+        "office": 55126
+    },
+    "82": {
+        "first_name": "PHILIP",
+        "second_name": "TOVSTOGAN",
+        "group": "MTG: Music Technology Group",
+        "office": 55300
+    },
+    "83": {
+        "first_name": "MEHMET FURKAN",
+        "second_name": "YESILER",
+        "group": "MTG: Music Technology Group",
+        "office": 55301
+    },
+    "84": {
+        "first_name": "RAFAEL",
+        "second_name": "CARO REPETTO",
+        "group": "MTG: Music Technology Group",
+        "office": 55302
+    },
+    "85": {
+        "first_name": "VSEVOLOD",
+        "second_name": "EREMENKO",
+        "group": "MTG: Music Technology Group",
+        "office": 55302
+    },
+    "86": {
+        "first_name": "NINAD",
+        "second_name": "PURANIK",
+        "group": "MTG: Music Technology Group",
+        "office": 55302
+    },
+    "87": {
+        "first_name": "ANT\u00d3NIO FILIPE",
+        "second_name": "SANTANA RAMIRES",
+        "group": "MTG: Music Technology Group",
+        "office": 55302
+    },
+    "88": {
+        "first_name": "TIANGE",
+        "second_name": "ZHU",
+        "group": "MTG: Music Technology Group",
+        "office": 55302
+    },
+    "89": {
+        "first_name": "DAVID",
+        "second_name": "CABRERA",
+        "group": "MTG: Music Technology Group",
+        "office": 55305
+    },
+    "90": {
+        "first_name": "ALBIN ANDREW",
+        "second_name": "CORREYA",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "91": {
+        "first_name": "XAVIER",
+        "second_name": "FAVORY",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "92": {
+        "first_name": "ANDRES",
+        "second_name": "FERRARO",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "93": {
+        "first_name": "EDUARDO DAVID",
+        "second_name": "FONSECA MONTERO",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "94": {
+        "first_name": "FREDERIC",
+        "second_name": "FONT CORBERA",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "95": {
+        "first_name": "SERGIO",
+        "second_name": "ORAMAS MARTIN",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "96": {
+        "first_name": "ALASTAIR STEWART",
+        "second_name": "PORTER",
+        "group": "MTG: Music Technology Group",
+        "office": 55306
+    },
+    "97": {
+        "first_name": "PABLO",
+        "second_name": "ALONSO JIMENEZ",
+        "group": "MTG: Music Technology Group",
+        "office": 55308
+    },
+    "98": {
+        "first_name": "DMITRY",
+        "second_name": "BOGDANOV",
+        "group": "MTG: Music Technology Group",
+        "office": 55308
+    },
+    "99": {
+        "first_name": "JORDI",
+        "second_name": "PONS PUIG",
+        "group": "MTG: Music Technology Group",
+        "office": 55308
+    },
+    "100": {
+        "first_name": "MINZ",
+        "second_name": "WON",
+        "group": "MTG: Music Technology Group",
+        "office": 55308
+    },
+    "101": {
+        "first_name": "MERLIJN",
+        "second_name": "BLAAUW",
+        "group": "MTG: Music Technology Group",
+        "office": 55310
+    },
+    "102": {
+        "first_name": "JORDI",
+        "second_name": "BONADA SANJAUME",
+        "group": "MTG: Music Technology Group",
+        "office": 55310
+    },
+    "103": {
+        "first_name": "MARTI",
+        "second_name": "UMBERT MORIST",
+        "group": "MTG: Music Technology Group",
+        "office": 55310
+    },
+    "104": {
+        "first_name": "AGGELOS",
+        "second_name": "GKIOKAS",
+        "group": "MTG: Music Technology Group",
+        "office": 55312
+    },
+    "105": {
+        "first_name": "MARIUS",
+        "second_name": "MIRON",
+        "group": "MTG: Music Technology Group",
+        "office": 55312
+    },
+    "106": {
+        "first_name": "ALFONSO ANTONIO",
+        "second_name": "PEREZ CARRILLO",
+        "group": "MTG: Music Technology Group",
+        "office": 55312
+    },
+    "107": {
+        "first_name": "EMILIA",
+        "second_name": "GOMEZ GUTIERREZ",
+        "group": "MTG: Music Technology Group",
+        "office": 55314
+    },
+    "108": {
+        "first_name": "ENRIQUE",
+        "second_name": "GUAUS TERMENS",
+        "group": "MTG: Music Technology Group",
+        "office": 55314
+    },
+    "109": {
+        "first_name": "AGUSTIN",
+        "second_name": "MARTORELL DOMINGUEZ",
+        "group": "MTG: Music Technology Group",
+        "office": 55314
+    },
+    "110": {
+        "first_name": "SERGIO IV\u00c1N",
+        "second_name": "GIRALDO MENDEZ",
+        "group": "MTG: Music Technology Group",
+        "office": 55316
+    },
+    "111": {
+        "first_name": "RAFAEL",
+        "second_name": "RAMIREZ MELENDEZ",
+        "group": "MTG: Music Technology Group",
+        "office": 55316
+    },
+    "112": {
+        "first_name": "ZACHARIAS",
+        "second_name": "VAMVAKOUSIS",
+        "group": "MTG: Music Technology Group",
+        "office": 55316
+    },
+    "113": {
+        "first_name": "HELENA",
+        "second_name": "CUESTA MUSSARRA",
+        "group": "MTG: Music Technology Group",
+        "office": 55318
+    },
+    "114": {
+        "first_name": "JUAN SEBASTI\u00c1N",
+        "second_name": "GOMEZ CA\u00d1ON",
+        "group": "MTG: Music Technology Group",
+        "office": 55318
+    },
+    "115": {
+        "first_name": "PERFECTO JOSE",
+        "second_name": "HERRERA BOYER",
+        "group": "MTG: Music Technology Group",
+        "office": 55318
+    },
+    "116": {
+        "first_name": "LORENZO",
+        "second_name": "PORCARO",
+        "group": "MTG: Music Technology Group",
+        "office": 55318
+    },
+    "117": {
+        "first_name": "JOAN",
+        "second_name": "SERRA JULIA",
+        "group": "MTG: Music Technology Group",
+        "office": 55318
+    },
+    "118": {
+        "first_name": "ANGEL-DAVID",
+        "second_name": "BLANCO CASARES",
+        "group": "MTG: Music Technology Group",
+        "office": 55320
+    },
+    "119": {
+        "first_name": "AZADEH",
+        "second_name": "FARIDI ERMAGAN",
+        "group": "MTG: Music Technology Group",
+        "office": 55320
+    },
+    "120": {
+        "first_name": "SONIA",
+        "second_name": "ESPI FERNANDEZ",
+        "group": "MTG: Music Technology Group",
+        "office": 55322
+    },
+    "121": {
+        "first_name": "CRISTINA",
+        "second_name": "GARRIDO FRANQUET",
+        "group": "MTG: Music Technology Group",
+        "office": 55322
+    },
+    "122": {
+        "first_name": "FRANCESC XAVIER",
+        "second_name": "SERRA CASALS",
+        "group": "MTG: Music Technology Group",
+        "office": 55324
+    },
+    "123": {
+        "first_name": "SERGI",
+        "second_name": "JORDA PUIG",
+        "group": "MTG: Music Technology Group",
+        "office": 55326
+    },
+    "124": {
+        "first_name": "ANDRES",
+        "second_name": "LEWIN RICHTER OSIANDER",
+        "group": "MTG: Music Technology Group / PHONOS",
+        "office": 51005
+    },
+    "125": {
+        "first_name": "ANGEL",
+        "second_name": "FARALDO PEREZ",
+        "group": "MTG: Music Technology Group / PHONOS",
+        "office": 55318
+    },
+    "126": {
+        "first_name": "LEO",
+        "second_name": "WANNER",
+        "group": "Natural Language Processing",
+        "office": 55418
+    },
+    "127": {
+        "first_name": "HORACIO",
+        "second_name": "SAGGION",
+        "group": "Natural Language Processing",
+        "office": 55422
+    },
+    "128": {
+        "first_name": "MIQUEL",
+        "second_name": "OLIVER RIERA",
+        "group": "NETS Network Technologies and Strategies Group",
+        "office": 55226
+    },
+    "129": {
+        "first_name": "RALPH GREGOR",
+        "second_name": "ANDRZEJAK",
+        "group": "NTSA: Nonlinear Time Series Analysis Group",
+        "office": 55100
+    },
+    "130": {
+        "first_name": "FEDERICO",
+        "second_name": "DEVALLE",
+        "group": "NTSA: Nonlinear Time Series Analysis Group",
+        "office": 55117
+    },
+    "131": {
+        "first_name": "CRISTINA",
+        "second_name": "GONZALEZ MARTINEZ",
+        "group": "NTSA: Nonlinear Time Series Analysis Group",
+        "office": 55117
+    },
+    "132": {
+        "first_name": "IRENE",
+        "second_name": "MALVESTIO",
+        "group": "NTSA: Nonlinear Time Series Analysis Group",
+        "office": 55117
+    },
+    "133": {
+        "first_name": "ANGELA OGBUGWA",
+        "second_name": "OCHUGBOJU",
+        "group": "NTSA: Nonlinear Time Series Analysis Group",
+        "office": 55117
+    },
+    "134": {
+        "first_name": "GIULIA",
+        "second_name": "RUZZENE",
+        "group": "NTSA: Nonlinear Time Series Analysis Group",
+        "office": 55117
+    },
+    "135": {
+        "first_name": "JUDIT",
+        "second_name": "CHAMORRO SERVENT",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55115
+    },
+    "136": {
+        "first_name": "MARTA",
+        "second_name": "GUARDIOLA GARCIA",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55115
+    },
+    "137": {
+        "first_name": "CARLOS",
+        "second_name": "YAG\u00dcE MENDEZ",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55119
+    },
+    "138": {
+        "first_name": "RUBEN",
+        "second_name": "DOSTE BELTRAN",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55121
+    },
+    "139": {
+        "first_name": "GERARD",
+        "second_name": "MARTI JUAN",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55121
+    },
+    "140": {
+        "first_name": "MARIANA",
+        "second_name": "NOGUEIRA",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55123
+    },
+    "141": {
+        "first_name": "CECILIA MARIA COSTA BENTO SOUSA",
+        "second_name": "NUNES",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55123
+    },
+    "142": {
+        "first_name": "MORTEZA",
+        "second_name": "RASOULIGANDOMANI",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": 55123
+    },
+    "143": {
+        "first_name": "OSCAR",
+        "second_name": "CAMARA REY",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": "55103a"
+    },
+    "144": {
+        "first_name": "BART H",
+        "second_name": "BIJNENS",
+        "group": "Physense: Sensing in Physiology and Biomedicine Group",
+        "office": "55103b"
+    },
+    "145": {
+        "first_name": "PALOMA",
+        "second_name": "BENAVENT CLIMENT",
+        "group": "Research Service",
+        "office": 55223
+    },
+    "146": {
+        "first_name": "BELEN",
+        "second_name": "PASCUAL MOLINA",
+        "group": "Research Service",
+        "office": 55223
+    },
+    "147": {
+        "first_name": "MANUEL",
+        "second_name": "RONDA CARRASCO",
+        "group": "Research Service",
+        "office": 55223
+    },
+    "148": {
+        "first_name": "MIGUEL ANGEL",
+        "second_name": "GONZALEZ BALLESTER",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55105
+    },
+    "149": {
+        "first_name": "MARIO",
+        "second_name": "CERESA",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55107
+    },
+    "150": {
+        "first_name": "NEREA",
+        "second_name": "MANGADO LOPEZ",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55107
+    },
+    "151": {
+        "first_name": "KATHARINA",
+        "second_name": "HEIL",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55109
+    },
+    "152": {
+        "first_name": "KARIM",
+        "second_name": "LEKADIR",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55109
+    },
+    "153": {
+        "first_name": "JEROME BERNARD",
+        "second_name": "NOAILLY",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55109
+    },
+    "154": {
+        "first_name": "ANDY LUIS",
+        "second_name": "OLIVARES MIYARES",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55115
+    },
+    "155": {
+        "first_name": "CARLOS EDUARDO",
+        "second_name": "RUIZ WILLS",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55115
+    },
+    "156": {
+        "first_name": "SIMONE",
+        "second_name": "TASSANI",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55115
+    },
+    "157": {
+        "first_name": "SERGIO",
+        "second_name": "SANCHEZ MARTINEZ",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55119
+    },
+    "158": {
+        "first_name": "JORDINA",
+        "second_name": "TORRENTS BARRENA",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55119
+    },
+    "159": {
+        "first_name": "LAURA",
+        "second_name": "BAUMGARTNER",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55123
+    },
+    "160": {
+        "first_name": "V\u00cdCTOR MANUEL",
+        "second_name": "CAMPELLO ROMAN",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55123
+    },
+    "161": {
+        "first_name": "IREM",
+        "second_name": "CETIN",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55123
+    },
+    "162": {
+        "first_name": "AMELIA",
+        "second_name": "JIMENEZ SANCHEZ",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55123
+    },
+    "163": {
+        "first_name": "ERIC",
+        "second_name": "LLUCH ALVAREZ",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55123
+    },
+    "164": {
+        "first_name": "PABLO-MIKI",
+        "second_name": "MART\u00cd CASTELLOTE",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": 55123
+    },
+    "165": {
+        "first_name": "GEMA",
+        "second_name": "PIELLA FENOY",
+        "group": "SIMBIOsys: Simulation, Imaging and Modelling for Biomedical Systems",
+        "office": "55103a"
+    },
+    "166": {
+        "first_name": "JOAN",
+        "second_name": "CODINA FILBA",
+        "group": "TALN; Natural Language Processing",
+        "office": 55406
+    },
+    "167": {
+        "first_name": "HAMDI ALP",
+        "second_name": "\u00d6KTEM",
+        "group": "TALN; Natural Language Processing",
+        "office": 55408
+    },
+    "168": {
+        "first_name": "MIREIA",
+        "second_name": "FARRUS CABECERAN",
+        "group": "TALN; Natural Language Processing",
+        "office": 55420
+    },
+    "169": {
+        "first_name": "AHMED GHASSAN TAWFIQ",
+        "second_name": "ABURA'ED",
+        "group": "TALN: Natural Language Processing",
+        "office": 55301
+    },
+    "170": {
+        "first_name": "FRANCESCO",
+        "second_name": "BARBIERI",
+        "group": "TALN: Natural Language Processing",
+        "office": 55305
+    },
+    "171": {
+        "first_name": "GIORGIA",
+        "second_name": "CISTOLA",
+        "group": "TALN: Natural Language Processing",
+        "office": 55400
+    },
+    "172": {
+        "first_name": "ALEX",
+        "second_name": "PEIRO LILJA",
+        "group": "TALN: Natural Language Processing",
+        "office": 55400
+    },
+    "173": {
+        "first_name": "ROBERTO JUAN",
+        "second_name": "CARLINI SALGUERO",
+        "group": "TALN: Natural Language Processing",
+        "office": 55402
+    },
+    "175": {
+        "first_name": "CARLA",
+        "second_name": "TEN VENTURA",
+        "group": "TALN: Natural Language Processing",
+        "office": 55402
+    },
+    "176": {
+        "first_name": "JENS",
+        "second_name": "GRIVOLLA",
+        "group": "TALN: Natural Language Processing",
+        "office": 55406
+    },
+    "179": {
+        "first_name": "GERARD",
+        "second_name": "CASAMAYOR DEL BOSQUE",
+        "group": "TALN: Natural Language Processing",
+        "office": 55416
+    },
+    "180": {
+        "first_name": "ALEXANDRA-CATALINA",
+        "second_name": "MATREATA",
+        "group": "TALN: Natural Language Processing",
+        "office": 55416
+    },
+    "181": {
+        "first_name": "MARIELLA",
+        "second_name": "DIMICCOLI",
+        "group": "TALN: Natural Language Processing",
+        "office": 55420
+    },
+    "182": {
+        "first_name": "BEATRIZ",
+        "second_name": "FISAS ELIZALDE",
+        "group": "TALN: Natural Language Processing",
+        "office": 55420
+    },
+    "184": {
+        "first_name": "ALEXANDER",
+        "second_name": "SHVETS",
+        "group": "TALN: Natural Language Processing",
+        "office": 55420
+    },
+    "185": {
+        "first_name": "PABLO",
+        "second_name": "ACCUOSTO",
+        "group": "TALN: Natural Language Processing",
+        "office": 55424
+    },
+    "186": {
+        "first_name": "ALEX",
+        "second_name": "BRAVO SERRANO",
+        "group": "TALN: Natural Language Processing",
+        "office": 55424
+    },
+    "187": {
+        "first_name": "KIM CHENG",
+        "second_name": "SHEANG",
+        "group": "TALN: Natural Language Processing",
+        "office": 55424
+    },
+    "188": {
+        "first_name": "LAIA",
+        "second_name": "ALBO",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55102
+    },
+    "189": {
+        "first_name": "ISHARI",
+        "second_name": "AMARASINGHE",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55102
+    },
+    "190": {
+        "first_name": "MARC YOSHIMI",
+        "second_name": "BEARDSLEY",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55102
+    },
+    "191": {
+        "first_name": "MILICA",
+        "second_name": "VUJOVIC",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55102
+    },
+    "192": {
+        "first_name": "PASCUAL PABLO",
+        "second_name": "ABENIA POLO",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55128
+    },
+    "193": {
+        "first_name": "DAVINIA",
+        "second_name": "HERNANDEZ LEO",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55128
+    },
+    "194": {
+        "first_name": "PATRICIA",
+        "second_name": "SANTOS RODRIGUEZ",
+        "group": "TIDE: Interactive & Distributed Technologies for Education",
+        "office": 55128
+    },
+    "195": {
+        "first_name": "ENRIC",
+        "second_name": "PEIG OLIVE",
+        "group": "UBICALAB: Ubiquitous Computing Applications Lab",
+        "office": 55008
+    },
+    "196": {
+        "first_name": "JOAN ANTONI",
+        "second_name": "MELIA SEGUI",
+        "group": "UBICALAB: Ubiquitous Computing Applications Lab",
+        "office": 55221
+    },
+    "197": {
+        "first_name": "RAFAEL",
+        "second_name": "POUS ANDRES",
+        "group": "UBICALAB: Ubiquitous Computing Applications Lab",
+        "office": 55426
+    },
+    "198": {
+        "first_name": "VICTOR",
+        "second_name": "CASAMAYOR PUJOL",
+        "group": "UBICALAB: Ubiquitous Computing Applications Lab",
+        "office": 55428
+    },
+    "199": {
+        "first_name": "VERONICA",
+        "second_name": "MORENO OLIVER",
+        "group": "UGA TIC - Pedagogue in USQUID",
+        "office": 55307
+    },
+    "200": {
+        "first_name": "JUDITH",
+        "second_name": "CHAMPION COLELL",
+        "group": "UGA TIC Head of the Management and Administration  Unit",
+        "office": 55012
+    },
+    "201": {
+        "first_name": "NURIA",
+        "second_name": "FIGULS FERNANDEZ",
+        "group": "UGA TIC- Polytechnic School",
+        "office": 55018
+    },
+    "203": {
+        "first_name": "MONTSERRAT",
+        "second_name": "JAUREGUIZAR SALAS",
+        "group": "UGA TIC- Polytechnic School",
+        "office": 55018
+    },
+    "204": {
+        "first_name": "MARIA LOURDES",
+        "second_name": "VENTAYOL BORRAS",
+        "group": "UGA TIC- Polytechnic School",
+        "office": 55018
+    },
+    "205": {
+        "first_name": "MARTA MONTIEL",
+        "second_name": "",
+        "group": "UGA TIC- Polytechnic School Coordinator",
+        "office": 55018
+    },
+    "206": {
+        "first_name": "LYDIA",
+        "second_name": "GARCIA ESCOBOSA",
+        "group": "UGA TIC- Recruitment , Docorate & International ETIC",
+        "office": 55014
+    },
+    "207": {
+        "first_name": "JANA",
+        "second_name": "SAFRANKOVA",
+        "group": "UGA TIC- Recruitment , Docorate & International ETIC Coordinator",
+        "office": 55014
+    },
+    "208": {
+        "first_name": "MARIA MONTSERRAT",
+        "second_name": "BRILLAS ROSELL",
+        "group": "UGA TIC- Recruitment , Doctorate & International ETIC",
+        "office": 55014
+    },
+    "209": {
+        "first_name": "NURIA BARRIO",
+        "second_name": "",
+        "group": "UGA TIC: Research, Promotion & Activities",
+        "office": 55014
+    },
+    "210": {
+        "first_name": "MONTSERRAT",
+        "second_name": "SERRANO RAGUAN",
+        "group": "UGA TIC: Research, Promotion & Activities",
+        "office": 55018
+    },
+    "211": {
+        "first_name": "PATRICIA PINO",
+        "second_name": "",
+        "group": "UGA TIC: Research, Promotion & Activities",
+        "office": ""
+    },
+    "212": {
+        "first_name": "JOANA",
+        "second_name": "CLOTET SULE",
+        "group": "UGA TIC: Research, Promotion & Activities",
+        "office": 55020
+    },
+    "213": {
+        "first_name": "XAVIER MONTE LLOPIS",
+        "second_name": "",
+        "group": "UGA TIC: Research, Promotion & Activities",
+        "office": 55020
+    },
+    "214": {
+        "first_name": "VANESSA",
+        "second_name": "JIMENEZ GARCIA",
+        "group": "UGA TIC: Research, Promotion & Activities Coordinator",
+        "office": 55020
+    },
+    "215": {
+        "first_name": "MOHIT HEMCHANDRA",
+        "second_name": "ADHIKARI",
+        "group": "WN: Wireless Networking Group",
+        "office": 55101
+    },
+    "216": {
+        "first_name": "BORIS",
+        "second_name": "BELLALTA JIMENEZ",
+        "group": "WN: Wireless Networking Group",
+        "office": 55202
+    },
+    "217": {
+        "first_name": "FRANCISCO JOSE",
+        "second_name": "WILHELMI ROCA",
+        "group": "WN: Wireless Networking Group",
+        "office": 55208
+    },
+    "218": {
+        "first_name": "FEDERICO",
+        "second_name": "FRANZONI",
+        "group": "WN: Wireless Networking Group",
+        "office": 55210
+    },
+    "219": {
+        "first_name": "RASOUL",
+        "second_name": "NIKBAKHT SILAB",
+        "group": "WN: Wireless Networking Group",
+        "office": 55210
+    },
+    "220": {
+        "first_name": "ZAIRA",
+        "second_name": "PINDADO TOST",
+        "group": "WN: Wireless Networking Group",
+        "office": 55210
+    },
+    "221": {
+        "first_name": "XAVIER",
+        "second_name": "SALLERAS SOLER",
+        "group": "WN: Wireless Networking Group",
+        "office": 55210
+    },
+    "222": {
+        "first_name": "JAVIER",
+        "second_name": "SILVA VELON",
+        "group": "WN: Wireless Networking Group",
+        "office": 55210
+    },
+    "223": {
+        "first_name": "VANESA",
+        "second_name": "DAZA FERNANDEZ",
+        "group": "WN: Wireless Networking Group",
+        "office": 55216
+    },
+    "224": {
+        "first_name": "CARLA",
+        "second_name": "RAFOLS SALVADOR",
+        "group": "WN: Wireless Networking Group",
+        "office": 55216
+    },
+    "225": {
+        "first_name": "ANGEL",
+        "second_name": "LOZANO SOLSONA",
+        "group": "WN: Wireless Networking Group",
+        "office": 55218
+    },
+    "226": {
+        "first_name": "ANTONIO",
+        "second_name": "ADAME VAZQUEZ",
+        "group": "WN: Wireless Networking Group",
+        "office": 55228
+    },
+    "227": {
+        "first_name": "ALBERT",
+        "second_name": "BEL PEREIRA",
+        "group": "WN: Wireless Networking Group",
+        "office": 55228
+    },
+    "228": {
+        "first_name": "MARC",
+        "second_name": "CARRASCOSA ZAMACOIS",
+        "group": "WN: Wireless Networking Group",
+        "office": 55228
+    },
+    "229": {
+        "first_name": "ALEJANDRO",
+        "second_name": "ALCAINE OTIN",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55107
+    },
+    "230": {
+        "first_name": "CARLOS ALBERTO ALEJANDRO",
+        "second_name": "CASTILLO OCARANZA",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55201
+    },
+    "231": {
+        "first_name": "ANA MARIA",
+        "second_name": "FREIRE VEIGA",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55215
+    },
+    "232": {
+        "first_name": "SANTIAGO",
+        "second_name": "GALELLA TOLEDO",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55215
+    },
+    "233": {
+        "first_name": "MARZIEH",
+        "second_name": "KARIMIHAGHIGHI",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55215
+    },
+    "234": {
+        "first_name": "DIANA MICHELLE",
+        "second_name": "RAMIREZ CIFUENTES",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55215
+    },
+    "235": {
+        "first_name": "MARIA",
+        "second_name": "RAUSCHENBERGER",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55215
+    },
+    "236": {
+        "first_name": "RICARDO ALBERTO",
+        "second_name": "BAEZA YATES",
+        "group": "WSSC: Web Science and Social Computing",
+        "office": 55228
+    }
+}

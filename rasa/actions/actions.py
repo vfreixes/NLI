@@ -4,6 +4,7 @@ from rasa_sdk.executor import CollectingDispatcher
 from rasa_sdk.events import SlotSet
 import pandas as pd
 import re
+import json
 
 
 # This files contains your custom actions which can be used to run
@@ -105,3 +106,38 @@ class ActionReadOffice(Action):
             
         #dispatcher.utter_message(response = "utter_office",text=f"{office}")
         return [SlotSet("office", office)]
+
+
+#dataFrame = pd.read_excel('data/info.xlsx',sheet_name="info")
+#rows, cols = dataFrame.shape
+#
+#first_name = ""
+#second_name = ""
+#group = ""
+#office = ""
+#
+#data = {}
+#
+#for row in range(0,rows):
+#    
+#    if not pd.isnull(dataFrame.loc[row,"NOMBRE"]):
+#        prof = dataFrame.loc[row,"NOMBRE"]
+#        prof_split = prof.split(",")
+#        if(len(prof_split) == 2):
+#            first_name = prof_split[1].strip()
+#            second_name = prof_split[0].strip()
+#        else:
+#            first_name = prof_split[0].strip()
+#            second_name = ""
+#
+#        group = dataFrame.loc[row,"GRUPO"].strip()
+#        office = dataFrame.loc[row,"DESPACHO"]
+#        if pd.isnull(office): office = ""
+#        data[row] = {'first_name':first_name,
+#                     'second_name':second_name,
+#                     'group':group,
+#                     'office':office}
+#print(type(data))
+#            
+#with open("data/data.json", "w") as outfile:
+#    json.dump(data, outfile)
